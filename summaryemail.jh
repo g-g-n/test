@@ -1,0 +1,4 @@
+entity SummaryEmail {
+	summaryEmailText String,
+    used Boolean
+}
